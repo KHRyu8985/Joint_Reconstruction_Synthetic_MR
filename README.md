@@ -1,7 +1,8 @@
 # Joint_Reconstruction_Synthetic_MR
 
 This is a source codes in MATLAB and Python to reproduce some of the results that are described in the paper: "Joint Parallel Imaging and Joint Variable Splitting Network for accelerated multi-contrast reconstruction for Synthetic MRI". For any questions about the code, please contact me (Kanghyun Ryu) at: kanghyun@stanford.edu
-![Image description](link-to-image)
+
+![Overview](https://github.com/KHRyu8985/Joint_Reconstruction_Synthetic_MR/blob/master/Picture1.jpg?raw=true)
 
 # Dataset:
 The dataset used in this work has been collected with a collaboration between the Medical Imaging LABoratory (MILAB) at Yonsei University and University of Ulsan College of Medicine, Asan Medical Center. 
