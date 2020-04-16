@@ -7,7 +7,7 @@ The dataset used in this work has been collected with a collaboration between th
 
 If needed, please request the dataset to donghyunkim@yonsei.ac.kr.
 
-# external software: 
+# External software: 
 For J-LORAKS, you will need to download ACS-LORAKS Recon code from http://mr.usc.edu/download/LORAKS2/
 Please refer to the reference of the code from
 [1] T. H. Kim, J. P. Haldar.  LORAKS Software Version 2.0:
