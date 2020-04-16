@@ -26,7 +26,10 @@ or refer to the paper,
 
 [1] Duan J, Schlemper J, Qin C, Ouyang C, Bai W, Biffi C, Bello G, Statton B, O'Regan DP, Rueckert D. VS-Net: Variable splitting network for accelerated parallel MRI reconstruction. arXiv preprint arXiv:1907.10033. MICCAI (2019).
 
-# Our-Submitted-Paper:
+# Our-Submitted-Paper-Conference:
+
+Our work is expected to be presented (power pitch) in ISMRM 28th Annual Meeting & Exhibition, 08-13 August 2020. Paris Expo Porte de Versailles, Paris, France.
+Jae-Hun Lee, Kanghyun Ryu, Sung-Min Gho, Ho-Sung Kim, Mohammed A. Al-masni and Dong-Hyun Kim. Joint Parallel Imaging reconstruction with Deep Learning for Multi-Contrast Synthetic MRI. 
 
 The paper entitled: "Joint Parallel Imaging and Joint Variable Splitting Network for accelerated multi-contrast reconstruction for Synthetic MRI" was submitted to the Magnetic Resonance in Medicine.
 
