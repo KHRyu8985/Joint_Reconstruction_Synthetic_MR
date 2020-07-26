@@ -1,6 +1,6 @@
 # Joint_Reconstruction_Synthetic_MR
 
-This is a source codes in MATLAB and Python to reproduce some of the results that are described in the paper: "Joint Parallel Imaging and Joint Variable Splitting Network for accelerated multi-contrast reconstruction for Synthetic MRI". For any questions about the code, please contact me (Kanghyun Ryu) at: kanghyun@stanford.edu
+This is a source codes in MATLAB and Python to reproduce some of the results that are described in the paper: "Accelerated multi-contrast reconstruction for Synthetic MRI using Joint Parallel Imaging and Variable Splitting Network". For any questions about the code, please contact me (Kanghyun Ryu) at: kanghyun@stanford.edu
 
 ![Overview](https://github.com/KHRyu8985/Joint_Reconstruction_Synthetic_MR/blob/master/Front_figure.jpg?raw=true)
 
@@ -31,7 +31,5 @@ or refer to the paper,
 Our work is expected to be presented (power pitch) in ISMRM 28th Annual Meeting & Exhibition, 08-13 August 2020. Paris Expo Porte de Versailles, Paris, France.
 
 Jae-Hun Lee, Kanghyun Ryu, Sung-Min Gho, Ho-Sung Kim, Mohammed A. Al-masni and Dong-Hyun Kim. Joint Parallel Imaging reconstruction with Deep Learning for Multi-Contrast Synthetic MRI, ISMRM 2020.
-
-The paper entitled: "Joint Parallel Imaging and Joint Variable Splitting Network for accelerated multi-contrast reconstruction for Synthetic MRI" was submitted to the Magnetic Resonance in Medicine.
 
 When using our code or dataset for research publications, please cite our paper.
