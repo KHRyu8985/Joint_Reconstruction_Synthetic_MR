@@ -28,8 +28,5 @@ or refer to the paper,
 
 # Our-Submitted-Paper-Conference:
 
-Our work is expected to be presented (power pitch) in ISMRM 28th Annual Meeting & Exhibition, 08-13 August 2020. Paris Expo Porte de Versailles, Paris, France.
-
-Jae-Hun Lee, Kanghyun Ryu, Sung-Min Gho, Ho-Sung Kim, Mohammed A. Al-masni and Dong-Hyun Kim. Joint Parallel Imaging reconstruction with Deep Learning for Multi-Contrast Synthetic MRI, ISMRM 2020.
-
+Our work has been accepted in Medical Physics 2021: Accelerated multi‐contrast reconstruction for synthetic MRI using joint parallel imaging and variable splitting networks. 
 When using our code or dataset for research publications, please cite our paper.
